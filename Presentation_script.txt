@@ -5,6 +5,8 @@ Open your PPT file (slide # 1)
 
 Good morning/afternoon, my name is Tin and here are my group members Duy and Athur. We are giving a presentation on Outsourcing (topic). 
 abc xyz
+
+/////TIN//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Slide # 2 (Agenda slide)
 .
 .
@@ -34,6 +36,9 @@ IT outsourcing is the fastest growing outsourcing. It is considered as a part of
 Manufacturer Outsourcing is another common outsourcing service today, which involve in transferring producing goods process to another manufacturer. The outsourcing service can be some certain parts of product or entire product. For example, in automobile industry, car manufacturer may have contractions with providers for producing car wheel or assembling car window. Another example in smart phone manufacturer like Apple, they outsource whole iPhone producing process in China to make advantage of supply chain in there.
 
 Project outsourcing is useful when the company get difficulty in managing a whole project or some phase of the project. The aim of this outsourcing is to address the problem related to lack of resource in the company like they do not have enough skilled employees or budgets, or time constrain of the project. They can outsource an entire project or some critical portion of project.
+
+
+/////////////////////ATHUR///////////////////////////////////////////////////////////////////////////////////////////////////////////
 . Slide 9#
 Hello,everyone. My name is Deng Xuhui. Welcome to my pressentation. I think you've seen what outsourcing is through my partner's narrative. Let me show you the advantages of outsourcing.
 
@@ -52,6 +57,10 @@ The diagram below shows how electronics OEM executives reduce costs and save mon
 . Slide #
 These are some other advantages. Like You’re Able to Focus on What Matters, You Can Share Some Risk…….
 All this shows us the advantages of outsourcing. Next, let us welcome Danny to show the disadvantages of outsourcing.
+
+
+
+//////////////////////////////////DUY//////////////////////////////////////////////////////////////////////////////////////////////
  . Slide #
 Many companies and businesses concern about outsourcing and offshoring their goods and services, because it brings huge benefits for them as Arthur mentioned before. However, there are still several disadvantages that need to be handled while outsourcing and offshoring. So, outsourcing sometime doesn’t warranty to bring expected profits to corporates (Harland, Knight, Lamming & Walker, 2005, p.835). Because they have to face with several challenges while outsourcing such as loss of control, quality issue, different time zone, security and confidentiality. 
 . Slide #
