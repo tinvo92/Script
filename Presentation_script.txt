@@ -4,7 +4,7 @@ Below is an example of script:
 Open your PPT file (slide # 1)
 
 Good morning/afternoon, my name is Tin and here are my group members Duy and Athur. We are giving a presentation on Outsourcing (topic). 
-
+abc xyz
 Slide # 2 (Agenda slide)
 .
 .
