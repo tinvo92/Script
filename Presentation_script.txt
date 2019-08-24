@@ -3,10 +3,8 @@
 Below is an example of script:
 Open your PPT file (slide # 1)
 
-Good morning/afternoon, my name is Tin and here are my group members Duy and Athur. We are giving a presentation on Outsourcing (topic). 
-abc xyz
+Good morning/afternoon, my name is TIN and here are my group members Duy and Deng. We are giving a presentation on Outsourcing. We will focus on answering 3 question.First, What is outsourcing and second, The advantage and disadvantage of it.
 
-/////TIN//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Slide # 2 (Agenda slide)
 .
 .
@@ -36,10 +34,10 @@ IT outsourcing is the fastest growing outsourcing. It is considered as a part of
 Manufacturer Outsourcing is another common outsourcing service today, which involve in transferring producing goods process to another manufacturer. The outsourcing service can be some certain parts of product or entire product. For example, in automobile industry, car manufacturer may have contractions with providers for producing car wheel or assembling car window. Another example in smart phone manufacturer like Apple, they outsource whole iPhone producing process in China to make advantage of supply chain in there.
 
 Project outsourcing is useful when the company get difficulty in managing a whole project or some phase of the project. The aim of this outsourcing is to address the problem related to lack of resource in the company like they do not have enough skilled employees or budgets, or time constrain of the project. They can outsource an entire project or some critical portion of project.
-
-
-/////////////////////ATHUR///////////////////////////////////////////////////////////////////////////////////////////////////////////
 . Slide 9#
+
+DENG PART
+
 Hello,everyone. My name is Deng Xuhui. Welcome to my pressentation. I think you've seen what outsourcing is through my partner's narrative. Let me show you the advantages of outsourcing.
 
 . Slide #
@@ -57,11 +55,10 @@ The diagram below shows how electronics OEM executives reduce costs and save mon
 . Slide #
 These are some other advantages. Like You’re Able to Focus on What Matters, You Can Share Some Risk…….
 All this shows us the advantages of outsourcing. Next, let us welcome Danny to show the disadvantages of outsourcing.
-
-
-
-//////////////////////////////////DUY//////////////////////////////////////////////////////////////////////////////////////////////
  . Slide #
+ 
+DUY PART
+
 Many companies and businesses concern about outsourcing and offshoring their goods and services, because it brings huge benefits for them as Arthur mentioned before. However, there are still several disadvantages that need to be handled while outsourcing and offshoring. So, outsourcing sometime doesn’t warranty to bring expected profits to corporates (Harland, Knight, Lamming & Walker, 2005, p.835). Because they have to face with several challenges while outsourcing such as loss of control, quality issue, different time zone, security and confidentiality. 
 . Slide #
 Firstly, while companies give other company the tasks to perform, they actually give the management control of this function to outsourcing company. The outsourced companies will not know what happen during the process of making their products. Sometime they cannot involve in the process until it is finished. Moreover, the management in outsourcing company has different techniques and strategies to perform the tasks that outsourced company might not control. Rochester (1995) argues that the outsourced companies might loss control if they are not involved in the process of making their products. So, outsourced companies have to make a clear contract before starting the works.
@@ -72,10 +69,11 @@ Rochester (1995) argues that different time zone can negatively affect to employ
 . Slide #
 Last but not least, the security risk is one of the most important things. The outsourcing companies will require some private information or confidential information to perform the task. However, during the time the outsourcing company produces the tasks, information can be leaked to third parties. Holcombe (2005) argues that personal data can be hacked or stolen during the outsourcing process that is really dangerous (p. 551). So, the outsourced companies have to sign the agreement to protect their data and information, and the penalty might occur if the information is lacked.
 
-In conclusion, …
+In conclusion,
+There is no doubt outsourcing becomes one of the most important strategy for business success of companies today. More and more outsourcing services are introduced to adapt various market demand.
 
-References
-
+# slide References
+Mccarthy, & Anagnostou. (2004). The impact of outsourcing on the transaction costs and boundaries of manufacturing. International Journal of Production Economics, 88(1), 61-71.
 Harland, C., Knight, L., Lamming, R., & Walker, H. (2005). Outsourcing: Assessing the risks and benefits for organisation, sectors and nations. International Journal of Operations & Production Management, 25(9), 831-850. Retrieve from https://search.proquest.com/docview/232337858?accountid=10016
 Holcombe, J. K. (2005). Solutions for regulating offshore outsourcing in the service sector: Using the law, market, international mechanisms, and collective organisation as building blocks. Article and Essays, 7(3), 550-552. Retrieve from https://www.law.upenn.edu/journals/jbl/articles/volume7/issue3/Holcombe7U.Pa.J.Lab.&Emp.L.539%282005%29.pdf
 Rochester, J. H. (1995). Advantages and disadvantages of outsourcing. Lockheed Martin Government Electronic Systems. Retrieve from  https://ieeexplore-ieee-org.ezproxy.cqu.edu.au/stamp/stamp.jsp?tp=&arnumber=554865&tag=1
